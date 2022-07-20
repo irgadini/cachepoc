@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CacheLib</id>
+    <version>1.0.0</version>
+    <authors>CacheLib</authors>
+    <description>Lib Cache Polly</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Polly.Caching.Memory" version="3.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\irg\source\repos\CacheLib\CacheLib\bin\Release\net6.0\CacheLib.dll" target="lib\net6.0\CacheLib.dll" />
+  </files>
+</package>

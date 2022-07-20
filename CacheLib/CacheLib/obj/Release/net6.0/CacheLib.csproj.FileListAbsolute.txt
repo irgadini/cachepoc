@@ -1,0 +1,12 @@
+C:\Users\irg\source\repos\CacheLib\CacheLib\bin\Release\net6.0\CacheLib.deps.json
+C:\Users\irg\source\repos\CacheLib\CacheLib\bin\Release\net6.0\CacheLib.dll
+C:\Users\irg\source\repos\CacheLib\CacheLib\bin\Release\net6.0\CacheLib.pdb
+C:\Users\irg\source\repos\CacheLib\CacheLib\obj\Release\net6.0\CacheLib.csproj.AssemblyReference.cache
+C:\Users\irg\source\repos\CacheLib\CacheLib\obj\Release\net6.0\CacheLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irg\source\repos\CacheLib\CacheLib\obj\Release\net6.0\CacheLib.AssemblyInfoInputs.cache
+C:\Users\irg\source\repos\CacheLib\CacheLib\obj\Release\net6.0\CacheLib.AssemblyInfo.cs
+C:\Users\irg\source\repos\CacheLib\CacheLib\obj\Release\net6.0\CacheLib.csproj.CoreCompileInputs.cache
+C:\Users\irg\source\repos\CacheLib\CacheLib\obj\Release\net6.0\CacheLib.dll
+C:\Users\irg\source\repos\CacheLib\CacheLib\obj\Release\net6.0\refint\CacheLib.dll
+C:\Users\irg\source\repos\CacheLib\CacheLib\obj\Release\net6.0\CacheLib.pdb
+C:\Users\irg\source\repos\CacheLib\CacheLib\obj\Release\net6.0\ref\CacheLib.dll

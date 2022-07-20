@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NugetTest</id>
+    <version>1.0.0</version>
+    <authors>NugetTest</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\irg\source\repos\NugetTest\NugetTest\bin\Debug\netcoreapp3.1\NugetTest.dll" target="lib\netcoreapp3.1\NugetTest.dll" />
+  </files>
+</package>
