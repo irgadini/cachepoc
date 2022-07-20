@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "YTqP0wDquArflOiYJIRJKrP/s5RtwS5P3TtvzkRnooxPHix6kF/13BhfN1laVYqxNd3IEbDZcNnW77xgvetfUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irg\\source\\repos\\ApiKafkaMediatr\\ApiKafkaMediatr\\ApiKafkaMediatr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irg\\.nuget\\packages\\cachelib\\1.0.0\\cachelib.1.0.0.nupkg.sha512",
+    "C:\\Users\\irg\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\irg\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.0.0\\microsoft.extensions.caching.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\irg\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.0.0\\microsoft.extensions.caching.memory.3.0.0.nupkg.sha512",
+    "C:\\Users\\irg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\irg\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\irg\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\irg\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\irg\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\irg\\.nuget\\packages\\polly\\7.1.1\\polly.7.1.1.nupkg.sha512",
+    "C:\\Users\\irg\\.nuget\\packages\\polly.caching.memory\\3.0.2\\polly.caching.memory.3.0.2.nupkg.sha512",
+    "C:\\Users\\irg\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\irg\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\irg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\irg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
